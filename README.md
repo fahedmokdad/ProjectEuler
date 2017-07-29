@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# Project Euler
+Solutions to Project Euler exercises.
